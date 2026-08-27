@@ -1,9 +1,22 @@
 {
-  "generatedAt": "2026-08-25",
+  "generatedAt": "2026-08-27",
   "source": "Google News",
   "query": "Kalshi (state OR lawsuit OR court OR regulator) when:90d",
   "queryUrl": "https://news.google.com/search?q=Kalshi+%28state+OR+lawsuit+OR+court+OR+regulator%29+when%3A90d&hl=en-US&gl=US&ceid=US%3Aen",
   "items": [
+    {
+      "title": "Connecticut sues Kalshi to block alleged unlicensed sports gambling",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZHdaUlVoSUZEbmFHbzdXR3IzZ2tvREcyZEtZOXJMeEFBR1RUcHU3S3d2eUtYQ1pGMFp3OE1vYUJFV09VblpfZDIzZWtsSUJiTXlhQU5xd0Y4aFBYU3NmbUpqOWlPc3VFTUNOTUo2WkNMZVhIX1hnRkxVT2tGbElvaEdkbm9WSDFZak1JNWUxTml0YXJuWUJkLUx4VXlveFJ6MlJpVWpPR2RIalk5VS01cUVn0gG3AUFVX3lxTE45VmhqZ3o0dnFUTzhfdlBUVUFIVVo1LVAtSE1hM19NZnVBczRsS3lyOWZhcVluZ05jVFdYMm5tNEloVlFXc1N4eGZXMGdNRklibHROd2hlektmYkw0aXY5eEdybGlxT3NGbW5iR0M5bFFxUXBMN25aNFZramhtTE0teGtEMENZWFdSaDVHblFwLWR6SXV5bElIZmRWa1ZDcTNXVTZFSkVoMEJHUkExVzlXYWlDbG82cw?oc=5",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "sourceUrl": "https://abcnews.com",
+      "publishedAt": "2026-08-27T19:02:53.000Z",
+      "states": [
+        {
+          "name": "Connecticut",
+          "abbr": "CT"
+        }
+      ]
+    },
     {
       "title": "Kalshi asks King County judge to reconsider Washington injunction on event contracts",
       "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNMTFLbEljRmtsWFFMYXgtUXk0Qmk2eFhJTmZJLXJ1TlhPQkdSNzhOYVFTUVdYc0RfcTlDVDFRNzRiUkM0SUhOZFFGb1Bpdm5CN1c3SXZRdGRhcDZudS1La0Vqc0J5ZksyNWdMMElER1pPZ2xibHc5VEJoOG1TdTVOeGpOYkhtUGNXZU1oQURkSnFELUhNekIzaUIyamdoWFp1cjg4ZnhzQnFqcXdBUlFjeEtTSG1COG5EanhvMXQzUUJ5N1dYcTgyNVl3QmhCSkdjcHZxSmREZVdSVE9RZnZhbnFHVWJaem5tLUpVODRVbkpsOE42TGVrUjBoLWJtMUNYTTBIc1dmU0Y4eTA?oc=5",
@@ -40,19 +53,6 @@
         {
           "name": "New York",
           "abbr": "NY"
-        }
-      ]
-    },
-    {
-      "title": "Kalshi Suffers Another Legal Blow as Connecticut Court Denies Injunction",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPa3NvUC11cG1RVDhqdVZLY2oyVzhDeFJzYkNxYi05OWQ2UGR2UURuNmF6ZVBiNGtKX3N2dXFSRUVFM3VGSnBEM3JTU0ZZeHZyb0ZscjBXSEw0RVdleGpYcTR3MUJSM3ZOcUNUSDRqSl9Hcnh2VWlxZFNNQmlSVF9STzlLVlFmQ0NvT2hBenVBTDZRZlJyMW95bTVScWs3SkVR?oc=5",
-      "source": "Yahoo Finance",
-      "sourceUrl": "https://finance.yahoo.com",
-      "publishedAt": "2026-08-10T07:00:00.000Z",
-      "states": [
-        {
-          "name": "Connecticut",
-          "abbr": "CT"
         }
       ]
     },
