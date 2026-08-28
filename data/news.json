@@ -1,15 +1,28 @@
 {
-  "generatedAt": "2026-08-27",
+  "generatedAt": "2026-08-28",
   "source": "Google News",
   "query": "Kalshi (state OR lawsuit OR court OR regulator) when:90d",
   "queryUrl": "https://news.google.com/search?q=Kalshi+%28state+OR+lawsuit+OR+court+OR+regulator%29+when%3A90d&hl=en-US&gl=US&ceid=US%3Aen",
   "items": [
     {
-      "title": "Connecticut sues Kalshi to block alleged unlicensed sports gambling",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZHdaUlVoSUZEbmFHbzdXR3IzZ2tvREcyZEtZOXJMeEFBR1RUcHU3S3d2eUtYQ1pGMFp3OE1vYUJFV09VblpfZDIzZWtsSUJiTXlhQU5xd0Y4aFBYU3NmbUpqOWlPc3VFTUNOTUo2WkNMZVhIX1hnRkxVT2tGbElvaEdkbm9WSDFZak1JNWUxTml0YXJuWUJkLUx4VXlveFJ6MlJpVWpPR2RIalk5VS01cUVn0gG3AUFVX3lxTE45VmhqZ3o0dnFUTzhfdlBUVUFIVVo1LVAtSE1hM19NZnVBczRsS3lyOWZhcVluZ05jVFdYMm5tNEloVlFXc1N4eGZXMGdNRklibHROd2hlektmYkw0aXY5eEdybGlxT3NGbW5iR0M5bFFxUXBMN25aNFZramhtTE0teGtEMENZWFdSaDVHblFwLWR6SXV5bElIZmRWa1ZDcTNXVTZFSkVoMEJHUkExVzlXYWlDbG82cw?oc=5",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "sourceUrl": "https://abcnews.com",
-      "publishedAt": "2026-08-27T19:02:53.000Z",
+      "title": "Ninth Circuit win for Nevada over Kalshi sets up potential Supreme Court showdown",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQam9lekJTdEtNWUVKSU9Za0E0Yk9GSHZuMGxGVFViOHh2dlNnamszRWJVZUkxaFkzRGZSZm9oNDUzb1ppU1M1RkpaTUw1NDVUM1p4UVMyZlpzclhNdXJibG5MWkNSeGRlSVhudGVGWmVzMEpVNkhDdjlpWFQxZkpIOWFVcndUU3RuZ3ZqTFlNZzV6SXZQd0lJRXFZd2hpUlpKcno4TXlPZlJvSVdZY1REZDJIOWtpQQ?oc=5",
+      "source": "Nevada Current",
+      "sourceUrl": "https://nevadacurrent.com",
+      "publishedAt": "2026-08-28T22:18:30.000Z",
+      "states": [
+        {
+          "name": "Nevada",
+          "abbr": "NV"
+        }
+      ]
+    },
+    {
+      "title": "CT sues Kalshi over unlicensed sports betting",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5UbTVLa2gxTjdYWkl1STVseGpHMFBNckRsOG9SM3BOM1cyMlI0VmZ5SkdTU0lNY3FoM201XzB5TWxHVmtzSDA3TDZ0Q2xHWlZnV0VyS3NQVEwtZFJCUlVHeUFNREszTkVrVG1vVE9YQQ?oc=5",
+      "source": "CT Mirror",
+      "sourceUrl": "https://ctmirror.org",
+      "publishedAt": "2026-08-27T23:00:00.000Z",
       "states": [
         {
           "name": "Connecticut",
@@ -22,24 +35,11 @@
       "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNMTFLbEljRmtsWFFMYXgtUXk0Qmk2eFhJTmZJLXJ1TlhPQkdSNzhOYVFTUVdYc0RfcTlDVDFRNzRiUkM0SUhOZFFGb1Bpdm5CN1c3SXZRdGRhcDZudS1La0Vqc0J5ZksyNWdMMElER1pPZ2xibHc5VEJoOG1TdTVOeGpOYkhtUGNXZU1oQURkSnFELUhNekIzaUIyamdoWFp1cjg4ZnhzQnFqcXdBUlFjeEtTSG1COG5EanhvMXQzUUJ5N1dYcTgyNVl3QmhCSkdjcHZxSmREZVdSVE9RZnZhbnFHVWJaem5tLUpVODRVbkpsOE42TGVrUjBoLWJtMUNYTTBIc1dmU0Y4eTA?oc=5",
       "source": "KOMO",
       "sourceUrl": "https://komonews.com",
-      "publishedAt": "2026-08-22T02:18:22.000Z",
+      "publishedAt": "2026-08-21T18:36:34.000Z",
       "states": [
         {
           "name": "Washington",
           "abbr": "WA"
-        }
-      ]
-    },
-    {
-      "title": "Prediction market operator Kalshi hits back at Nevada regulator over geofencing fine",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOT0pOU3U5SkkwQ3dlQmEwdk1qc3cySXdxYnoxd1FLek9iTEI2LXBBT195Ni1vRXhyZDljbExOekR1bGNWd2NEQmFEVVIwdVE1Zlh4enVIT3oxVlo2OHBqdGgtVm1FQWFIWkVNSTh1d2J3VFpiTWp1Ymo0ZUt1eXA4TWdmY2gwdDNKVWEtMlM4ZjNRZUoxQ0NUT2FiTEV6LVRzcHBWNE5MTExGdWN2N3doODNNQkVHOExFTnBrclM4ejJSS1B0ZElPUg?oc=5",
-      "source": "Reuters",
-      "sourceUrl": "https://www.reuters.com",
-      "publishedAt": "2026-08-17T07:00:00.000Z",
-      "states": [
-        {
-          "name": "Nevada",
-          "abbr": "NV"
         }
       ]
     },
@@ -61,7 +61,7 @@
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE12T29RaENKd0JrZ1haZ2hHRUJvX0s1TEl1c1hxN2ROdGN5c3FoNzExTTUwVzY5U1lMTzBqaFNBVXYtM25lQWNzbTdTbldYTXVwRG50VzUtYjNhUHRHRkVlaTRlMHlLMnFsRVhmWmJNZm4xdUppTTBibml3?oc=5",
       "source": "The Salt Lake Tribune",
       "sourceUrl": "https://www.sltrib.com",
-      "publishedAt": "2026-08-05T21:03:49.000Z",
+      "publishedAt": "2026-08-05T07:00:00.000Z",
       "states": [
         {
           "name": "Utah",
@@ -70,15 +70,15 @@
       ]
     },
     {
-      "title": "Ruling lets Wisconsin pursue action against Kalshi, CDNA and similar event-contract sites",
-      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOckQ3OWlnUGM3dnlXVy1TdTVzcTVqeERuemExWUpCYzFDWEJ1UVIzZVhFZ0NISUR2TTNFY2JnZnNBNkhGbWFtcGtXbFFLVG5aZW5VRmFtTHg2ODh0UEtaVXBsSHN4ZlQ2dWNRYzJicHA4UjJqUXczT21Mcnp6OHlQRl9tYkR0OUNUN1V0eGFueDVUZXVreGRtTTJiR2hzdEdJdVh4dGVSRGxnQ0U1UnY4Tm4xcmNtbGh1UVQ1bFlUSzB1dDF0LWFYdHNTMDdwZ3B0Q2c5MEJFMTk5c2xyNmtKcEZ4eDlSQjNhd0xYSHp3MEg1LU9lYTRuV2FualV3UkxDNVAtVUp0UnNnZlJ4cjRiMG8zbFRhek9FQmJ1S1JCeURhQnly?oc=5",
-      "source": "WLUK",
-      "sourceUrl": "https://fox11online.com",
-      "publishedAt": "2026-07-31T07:00:00.000Z",
+      "title": "Trump regulator orders Kalshi to defy Michigan court – escalating battle over prediction markets",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVkFqeW16eUZfYTF0ZmVlSndieVRSNUYyN1hIdV9xcTJjTDFGZTJGNEF4MDh4V3pZZFRfT3IwV2J5V0pmajFvaGdWZnJQdWVWbTFzbGs4RDh4bW92SnJWQVZVMVJBTVpWWFE1d080OC05TUVEdmtXTnZrZk5ndzM0X1EyaFlXTkE?oc=5",
+      "source": "CNN",
+      "sourceUrl": "https://www.cnn.com",
+      "publishedAt": "2026-07-17T07:00:00.000Z",
       "states": [
         {
-          "name": "Wisconsin",
-          "abbr": "WI"
+          "name": "Michigan",
+          "abbr": "MI"
         }
       ]
     }
