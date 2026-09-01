@@ -1,9 +1,22 @@
 {
-  "generatedAt": "2026-08-31",
+  "generatedAt": "2026-09-01",
   "source": "Google News",
   "query": "Kalshi (state OR lawsuit OR court OR regulator) when:90d",
   "queryUrl": "https://news.google.com/search?q=Kalshi+%28state+OR+lawsuit+OR+court+OR+regulator%29+when%3A90d&hl=en-US&gl=US&ceid=US%3Aen",
   "items": [
+    {
+      "title": "What new U.S. Court of Appeals ruling could mean for Arizona’s legal action against Kalshi",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNLV9xMmdKMG9MRk5pbDlpMGxuTDBTM3dGbGpLeDNPMUlFNUhmWTlkNWdpeGdhRTVnX1dZQXluQThoZTZJREVvZkRuSGxQZzR5b2xBbktLTlE4ZTBkSTJDRnVuN2Ewc1lyVGdVd3FrQV85c2NRZUtLZ2txTXBsNkhrZ3lpLUE2NUk4QzdMS3JHcE1sdVJQb2doN250Q3gwTjJmQjRndTAxYmlMV2VfQTRlUkF0SXVPNDlFRW1FcTVqbnlWaVREQmFJcg?oc=5",
+      "source": "KJZZ",
+      "sourceUrl": "https://www.kjzz.org",
+      "publishedAt": "2026-08-31T19:36:00.000Z",
+      "states": [
+        {
+          "name": "Arizona",
+          "abbr": "AZ"
+        }
+      ]
+    },
     {
       "title": "Kalshi Creeps Closer to Supreme Court Docket With Nevada Ruling",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeXZjWHQ2T2RQeEg3R0RFMGhaU244R2NWTHFRWmpVWWZFSDJnd05ldGRoanVDWDB1clJVcDcyOXUzOU1SdHktekhudm1FbjFmelJaOXM3UnJ3blZzUHZtYlIwcHhrMDJoM1ZHekROR0pseTRXbkZEbnFRME9jUmt0d3BqQjdWalBFNlh2bE9ackxnS2c0QTZhaHNwejdQMDNTczFoeGdXUQ?oc=5",
@@ -35,7 +48,7 @@
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1jZmRzQ3FFa0hERzg4Y3BQYWg0dENTaU9TdkNBelU4Y3RkWWE2ME5jZm9DWkIyelVRRWtyWWVNTXM5RlhLSXJJMS1jZG1ZRDF0d3ROOWhCZDF0VGNxOXY3eVRMYUxXaVpDRWR3R2FFc0F5Z1hlcWg0cmQwSktqdw?oc=5",
       "source": "WNKY",
       "sourceUrl": "https://www.wnky.com",
-      "publishedAt": "2026-08-28T23:18:27.000Z",
+      "publishedAt": "2026-08-28T22:49:32.000Z",
       "states": [
         {
           "name": "Kentucky",
@@ -44,24 +57,11 @@
       ]
     },
     {
-      "title": "9th Circuit sides with states in Kalshi gambling fight, potentially reviving Arizona's prosecution",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVkR1dW5VRXptWXlTN293YkxyUmtxb2h4TWsxMEdWX3NIVW9VZGxjbEZNbkkzMEl2QWZ3RXFkZ2xrc2M0Yko2UlhZUHFVNUljZnBRaHZjb2dXUl9CWkVZSE8yVVBHdkxtLWNzNFB0S25UcXE0SEhtOUNRRDhxMDJsSEVkUUdLUUphRzA1eW11d1paZnAzcC1LeVEyY1dRcDlGMlNIM1JJbzF3Y0JsRzlXTVN5YkgxY1ZxWHJXY3ByZlpvUUpfZ3Y0Tw?oc=5",
-      "source": "Arizona Mirror",
-      "sourceUrl": "https://azmirror.com",
-      "publishedAt": "2026-08-28T21:34:18.000Z",
-      "states": [
-        {
-          "name": "Arizona",
-          "abbr": "AZ"
-        }
-      ]
-    },
-    {
-      "title": "VIDEO: Kalshi challenges Washington court order",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOR1RvaFNBNEp0MlRqRHpOZEZVVFZ4LTZNUFBheWhKd2RPWTRaRDk0TERaZzRnM2dlZExZTER4V3p1MUJ0QktCMHdPeXJ1V3pkaXBJS1U0dDc4WHNCMm04ck56REIzUHd1eElBaDJDMGQzRDBvX3AtM1l1RU8xSHljejdwTHNTUmtHTzBlUVVtVkphQ3R2MFJFMnRLcTFyTEJ4R1cydkVYNUFUM3otblp3NE5XQlVwZ0dD?oc=5",
-      "source": "KIRO 7 News Seattle",
-      "sourceUrl": "https://www.kiro7.com",
-      "publishedAt": "2026-08-21T18:35:34.000Z",
+      "title": "Kalshi ordered to sharply curtail operations in WA",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUnNudThRVzR5X0ZmNlNtZS1UM0cxeS1DdzIwY05nSHRRSEFhYWthdXJUNTcwdkduLTltbl9PMTRhczhfUmlCMk94OTBwSHFCenozSmlrd3NPT2JieVdwd2RhRDZ2VlQ5TkRhbEo3MFhSZW4tMllVQ0RnS3BtZG5RYWYxWXUtWVhhbUowYUl0VUFJb3JYZS1zS2EwZW84WTQ?oc=5",
+      "source": "Washington State Standard",
+      "sourceUrl": "https://washingtonstatestandard.com",
+      "publishedAt": "2026-08-13T07:00:00.000Z",
       "states": [
         {
           "name": "Washington",
