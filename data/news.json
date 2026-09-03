@@ -1,13 +1,52 @@
 {
-  "generatedAt": "2026-09-01",
+  "generatedAt": "2026-09-03",
   "source": "Google News",
   "query": "Kalshi (state OR lawsuit OR court OR regulator) when:90d",
   "queryUrl": "https://news.google.com/search?q=Kalshi+%28state+OR+lawsuit+OR+court+OR+regulator%29+when%3A90d&hl=en-US&gl=US&ceid=US%3Aen",
   "items": [
     {
+      "title": "Nessel wins injunction against Kalshi as prediction market says Michigan lacks regulatory authority",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdDFOQVpMUy0tVXpVZTBGYVBCUHVCX2E2VjZESnc1UEpPYlo3ZlZFUFU5S1pwZ24zWTQxVEhQZlpNMFREcG5nYXdPTzZ2UE5kam9yWUFHeDZfemNvZW1PUnRBdGU1QnlLM2lRdjBaYURnQXE0S0tDZGtlQURnZEQxY29GVExCUlM3QnVWUEl2VVFDeFhtcEVIel82VnZOT2NpYmJpYTcyeXp0NGR5ZlFzNk5wN0dENWRZaDdFREs1TmQxeXhTbmtIOXc5UnJHcm9Udk5Ka19R?oc=5",
+      "source": "Michigan Advance",
+      "sourceUrl": "https://michiganadvance.com",
+      "publishedAt": "2026-09-03T08:04:11.000Z",
+      "states": [
+        {
+          "name": "Michigan",
+          "abbr": "MI"
+        }
+      ]
+    },
+    {
+      "title": "New Jersey Asks Supreme Court to Rule on Kalshi’s Sports Contracts",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeVl3NExMVTVnS2ZsaGwyUWNoN0NjQTN5Vm5MR3U3T1Z5Mlo2S1ZveGhCc3lZMlpLSWdPYTRIVndWUnpvZWFLTDN5djVVeXhZR3hxdUtXOHgtWkpYOTk1WElPb2Rlak9NTDRKMGxQNmpvMkR3TVFQQ05kVjlxUE9reEVyLVRXV193ZnVIN2VJcmJkdk1nMWVNclR6Yw?oc=5",
+      "source": "FishDuck",
+      "sourceUrl": "https://fishduck.com",
+      "publishedAt": "2026-09-03T00:25:04.000Z",
+      "states": [
+        {
+          "name": "New Jersey",
+          "abbr": "NJ"
+        }
+      ]
+    },
+    {
+      "title": "Kalshi cannot block Nevada oversight of prediction markets, federal court rules",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUlVPdk1xbjdObnNBdmktRXc0eUNJVmhFa1pZSmpHQml1bEt0VUVCSTNKaTFIM0RBcnh6NEVUMHgxM3ZjWUxSUFlPNzlXZm1wWjZvUHJpLV9YbG1KWmtKcXE5RmUxMUJjOGk3X2FSZnd4RjhybmhwclZtbHFfR19XMml4Y042aHFONHFEZTROQkE?oc=5",
+      "source": "Maryland Daily Record",
+      "sourceUrl": "https://thedailyrecord.com",
+      "publishedAt": "2026-08-31T19:54:25.000Z",
+      "states": [
+        {
+          "name": "Nevada",
+          "abbr": "NV"
+        }
+      ]
+    },
+    {
       "title": "What new U.S. Court of Appeals ruling could mean for Arizona’s legal action against Kalshi",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNLV9xMmdKMG9MRk5pbDlpMGxuTDBTM3dGbGpLeDNPMUlFNUhmWTlkNWdpeGdhRTVnX1dZQXluQThoZTZJREVvZkRuSGxQZzR5b2xBbktLTlE4ZTBkSTJDRnVuN2Ewc1lyVGdVd3FrQV85c2NRZUtLZ2txTXBsNkhrZ3lpLUE2NUk4QzdMS3JHcE1sdVJQb2doN250Q3gwTjJmQjRndTAxYmlMV2VfQTRlUkF0SXVPNDlFRW1FcTVqbnlWaVREQmFJcg?oc=5",
-      "source": "KJZZ",
+      "source": "kjzz.org",
       "sourceUrl": "https://www.kjzz.org",
       "publishedAt": "2026-08-31T19:36:00.000Z",
       "states": [
@@ -18,50 +57,11 @@
       ]
     },
     {
-      "title": "Kalshi Creeps Closer to Supreme Court Docket With Nevada Ruling",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeXZjWHQ2T2RQeEg3R0RFMGhaU244R2NWTHFRWmpVWWZFSDJnd05ldGRoanVDWDB1clJVcDcyOXUzOU1SdHktekhudm1FbjFmelJaOXM3UnJ3blZzUHZtYlIwcHhrMDJoM1ZHekROR0pseTRXbkZEbnFRME9jUmt0d3BqQjdWalBFNlh2bE9ackxnS2c0QTZhaHNwejdQMDNTczFoeGdXUQ?oc=5",
-      "source": "Sportico.com",
-      "sourceUrl": "https://www.sportico.com",
-      "publishedAt": "2026-08-31T13:01:18.000Z",
-      "states": [
-        {
-          "name": "Nevada",
-          "abbr": "NV"
-        }
-      ]
-    },
-    {
-      "title": "Connecticut Sues Kalshi Over Alleged Unlicensed Sports Betting",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOY0xyMHAtWTZYaHNEVUtzRHg0WXFId0lXLVlKR0M0eHFrTENQd2x2MWt6V3BsZXNMblRxYVFpVjZ0U1pJcWstdlVqUG1ZMzM2ZEJCRERMV05zMWZSU2U5SkhOMlR5RUM4QkFuU3RScTdLNmxLTTdTLXhsYzNyMlpXbmhSclFYZUh3V0Jla0twSU5Pd3VoR1NWNTdpRWRWLU52aVpN?oc=5",
-      "source": "Law Commentary",
-      "sourceUrl": "https://www.lawcommentary.com",
-      "publishedAt": "2026-08-29T07:00:00.000Z",
-      "states": [
-        {
-          "name": "Connecticut",
-          "abbr": "CT"
-        }
-      ]
-    },
-    {
-      "title": "Kentucky sues Kalshi over sports prediction markets",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1jZmRzQ3FFa0hERzg4Y3BQYWg0dENTaU9TdkNBelU4Y3RkWWE2ME5jZm9DWkIyelVRRWtyWWVNTXM5RlhLSXJJMS1jZG1ZRDF0d3ROOWhCZDF0VGNxOXY3eVRMYUxXaVpDRWR3R2FFc0F5Z1hlcWg0cmQwSktqdw?oc=5",
-      "source": "WNKY",
-      "sourceUrl": "https://www.wnky.com",
-      "publishedAt": "2026-08-28T22:49:32.000Z",
-      "states": [
-        {
-          "name": "Kentucky",
-          "abbr": "KY"
-        }
-      ]
-    },
-    {
-      "title": "Kalshi ordered to sharply curtail operations in WA",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUnNudThRVzR5X0ZmNlNtZS1UM0cxeS1DdzIwY05nSHRRSEFhYWthdXJUNTcwdkduLTltbl9PMTRhczhfUmlCMk94OTBwSHFCenozSmlrd3NPT2JieVdwd2RhRDZ2VlQ5TkRhbEo3MFhSZW4tMllVQ0RnS3BtZG5RYWYxWXUtWVhhbUowYUl0VUFJb3JYZS1zS2EwZW84WTQ?oc=5",
-      "source": "Washington State Standard",
-      "sourceUrl": "https://washingtonstatestandard.com",
-      "publishedAt": "2026-08-13T07:00:00.000Z",
+      "title": "VIDEO: Kalshi challenges Washington court order",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOR1RvaFNBNEp0MlRqRHpOZEZVVFZ4LTZNUFBheWhKd2RPWTRaRDk0TERaZzRnM2dlZExZTER4V3p1MUJ0QktCMHdPeXJ1V3pkaXBJS1U0dDc4WHNCMm04ck56REIzUHd1eElBaDJDMGQzRDBvX3AtM1l1RU8xSHljejdwTHNTUmtHTzBlUVVtVkphQ3R2MFJFMnRLcTFyTEJ4R1cydkVYNUFUM3otblp3NE5XQlVwZ0dD?oc=5",
+      "source": "kiro7.com",
+      "sourceUrl": "https://www.kiro7.com",
+      "publishedAt": "2026-08-21T18:35:34.000Z",
       "states": [
         {
           "name": "Washington",
@@ -70,15 +70,15 @@
       ]
     },
     {
-      "title": "CFTC orders Kalshi to continue offering prediction markets in New York after state lawsuit",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOFYxUmp4WjRsQnVEanE5UnhlNTdKZTdJenZiSFBfZTVpMnNKRGVTcTlaWEtEZG9BTXFhVXp5amNta3JkdkZsU05sLVJKcmdXVEZVNjhHTXRrdzVITHVvSXcybXFWTnNTVFpMYjM1YWdHSkRNN1plLXpuSDBYLV93cHVGam4tOUdvaWlCWTJTSkVKN2hGMGdOd3B2WDN4bU1jenhYYkpXWjVyc1oyUG1QTXI1bXVuYUlyZzIxR200eFZyTFFwdnJlQmUxUGwzZw?oc=5",
-      "source": "CoinDesk",
-      "sourceUrl": "https://www.coindesk.com",
-      "publishedAt": "2026-08-11T07:00:00.000Z",
+      "title": "Federal judge: Connecticut can impose sports betting rules on Kalshi",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZTZ6bldaRzdtQjFJaTFVNkNoY25ob2dFOTBjLWtCSlR2bTEzano0MS1uTHZYT1hXWkpFbFBYa28xVkNrNlpfaWNmNWZzTjlibTE1SkJuUTlfSWZHZFFOTVQ0clViUjF3T3E2TGU4VGd2S0tycF9NajM1NzVPRy1DeHp0Ym00U3RhcWdUQWEybTlqdm5vX3RXYUk5OThkUlN3YmlEdENXMWdRdFpPTzFJSUJMeHh1ZUFDcFHSAcIBQVVfeXFMT05seWJjSjFzOFBCVk81M3Q0dy00alNIU09Pcjh5SGwydVpwWFY0RE01RFc5TUhhZjZ5T1l6U0drR3JSQmphaEVoWU5Yckxrb01DZ1M1Y2RQR1pVWnhEZGxJWi1KLXpINmI1M1NxWlFiMmVCS082VjVnekVWd3Y2UHdObjRUYWFhc0Nsc2RyUUxZeThQRHJkYUV2Wl96Q1ZhYTYwV1lUdjV4TEdvMWQxRE1mWnFzVGVaNzYwSVV5dGx0a0E?oc=5",
+      "source": "NBC Connecticut",
+      "sourceUrl": "https://www.nbcconnecticut.com",
+      "publishedAt": "2026-08-13T07:00:00.000Z",
       "states": [
         {
-          "name": "New York",
-          "abbr": "NY"
+          "name": "Connecticut",
+          "abbr": "CT"
         }
       ]
     }
