@@ -1,13 +1,39 @@
 {
-  "generatedAt": "2026-09-08",
+  "generatedAt": "2026-09-09",
   "source": "Google News",
   "query": "Kalshi (state OR lawsuit OR court OR regulator) when:90d",
   "queryUrl": "https://news.google.com/search?q=Kalshi+%28state+OR+lawsuit+OR+court+OR+regulator%29+when%3A90d&hl=en-US&gl=US&ceid=US%3Aen",
   "items": [
     {
+      "title": "Federal judge squashes Kalshi bid to block prediction market regulation by Iowa",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWm9RdkQ5b1hhOEl1XzFzTmUyM3Z0b2pfcjRoc2JoaFpUeHVKNXZzaW1HVGtwMXJVR216S0hrMURCYzNuQk10WEN4c3o3Z09FLWhiT1Yyc294eUk3RFdMT21qS1ZBXzV2M3g1RkhPRHU3RWtZQ2hveXNBRVpGU0lRLVZBRWMxMWd3OTRGRXp0aDJZR1hjTF9EZ1dxdEZaTFRxUzlqYzl2Ql84Zkw0d3lV?oc=5",
+      "source": "Courthouse News",
+      "sourceUrl": "https://www.courthousenews.com",
+      "publishedAt": "2026-09-09T04:28:52.000Z",
+      "states": [
+        {
+          "name": "Iowa",
+          "abbr": "IA"
+        }
+      ]
+    },
+    {
+      "title": "New Mexico tribe and pueblos wrap up case that Kalshi sports betting hurts their sovereignty",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYnNGcjdmSDdGUVNtNk45UjZoam4zYXh2eEQ5Yk1FbWpYQTBOQ1NHUTcwOG5oY25qTWp1b09VUzhDeC1pVFNidV9NOXdlTXNQSE1fRlJhdmdnSkpBek1BSGdRcS1NbEpDVWJCY0hHa2VMRG1rN2l1NUoyMzZiNGxsckhVVFVMMGdmNVVpZ1JISEtaMEdqNTlEVWhqUWVQY1BHWDZXWnNQU2dQQmt2VmlRQkdqR3NhQjV1dnlfM3FHdHNGRjA?oc=5",
+      "source": "Source New Mexico",
+      "sourceUrl": "https://sourcenm.com",
+      "publishedAt": "2026-09-08T18:14:04.000Z",
+      "states": [
+        {
+          "name": "New Mexico",
+          "abbr": "NM"
+        }
+      ]
+    },
+    {
       "title": "Kalshi’s general counsel looks to Supreme Court after New Jersey appeal",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNnkzb3JERHhJWmpJcXZNWTJnTTktcUNRWkZsSFFNcy00OGtETzZGYkxwVUlsMVVncmQtMGdvNWVDTnJCTFNQYW91NzRPSDcxN0lFQ3NKVkw4OW1QTTJWblhBOEwzZkVTSm14QndNemJyQWk0UDhjWXI0VmhRQnVvQ1hhYk44VGlrOVp1MEo4TzFTWWdrMWNHUzk5UTZrRnZkV00wVmw1SC1NcVRrVEtJdU9PUXg?oc=5",
-      "source": "azcapitoltimes.com",
+      "source": "Arizona Capitol Times",
       "sourceUrl": "https://azcapitoltimes.com",
       "publishedAt": "2026-09-08T03:23:30.000Z",
       "states": [
@@ -44,37 +70,11 @@
       ]
     },
     {
-      "title": "9th Circuit sides with states in Kalshi gambling fight, potentially reviving Arizona's prosecution",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVkR1dW5VRXptWXlTN293YkxyUmtxb2h4TWsxMEdWX3NIVW9VZGxjbEZNbkkzMEl2QWZ3RXFkZ2xrc2M0Yko2UlhZUHFVNUljZnBRaHZjb2dXUl9CWkVZSE8yVVBHdkxtLWNzNFB0S25UcXE0SEhtOUNRRDhxMDJsSEVkUUdLUUphRzA1eW11d1paZnAzcC1LeVEyY1dRcDlGMlNIM1JJbzF3Y0JsRzlXTVN5YkgxY1ZxWHJXY3ByZlpvUUpfZ3Y0Tw?oc=5",
-      "source": "Arizona Mirror",
-      "sourceUrl": "https://azmirror.com",
-      "publishedAt": "2026-08-28T07:00:00.000Z",
-      "states": [
-        {
-          "name": "Arizona",
-          "abbr": "AZ"
-        }
-      ]
-    },
-    {
-      "title": "CT sues Kalshi, adding third case to ongoing legal fight",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYnRhTndSTV9Rem9uNG1GX1V1UWdyU1ZHQldFcW9WTDJGUllJdk1UR1FIdld1WFdvYVJBOWZ3bzRDRVlJVmt3aFNONzFpcGNBWkUwVHotNEFiT1N6aFJNczlBcTlLUU9WLTYya25JMEZQdS16V3BlbGRvUTY2OU8xT3ZvUzJCYVdCTWp2Vm95d21Dcy0zZ1N1TQ?oc=5",
-      "source": "Hartford Business Journal",
-      "sourceUrl": "https://hartfordbusiness.com",
-      "publishedAt": "2026-08-27T15:10:31.000Z",
-      "states": [
-        {
-          "name": "Connecticut",
-          "abbr": "CT"
-        }
-      ]
-    },
-    {
-      "title": "Kalshi asks King County judge to reconsider Washington injunction on event contracts",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNMTFLbEljRmtsWFFMYXgtUXk0Qmk2eFhJTmZJLXJ1TlhPQkdSNzhOYVFTUVdYc0RfcTlDVDFRNzRiUkM0SUhOZFFGb1Bpdm5CN1c3SXZRdGRhcDZudS1La0Vqc0J5ZksyNWdMMElER1pPZ2xibHc5VEJoOG1TdTVOeGpOYkhtUGNXZU1oQURkSnFELUhNekIzaUIyamdoWFp1cjg4ZnhzQnFqcXdBUlFjeEtTSG1COG5EanhvMXQzUUJ5N1dYcTgyNVl3QmhCSkdjcHZxSmREZVdSVE9RZnZhbnFHVWJaem5tLUpVODRVbkpsOE42TGVrUjBoLWJtMUNYTTBIc1dmU0Y4eTA?oc=5",
-      "source": "KOMO",
-      "sourceUrl": "https://komonews.com",
-      "publishedAt": "2026-08-21T07:00:00.000Z",
+      "title": "Kalshi accuses Washington AG of 'selective non-enforcement' of gambling laws",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNM3JwNHdvNE1IOXc3ZHhaZlhRR202aG1RYXNpRklmaW8wckNXWjJfZ21fUFFXanhkanU4cGFVc0VwaEt6Z1I4Y3lPUHZ0UVNpR05nTi1vR2tyUmlCRjVkeEdQMTUxdVdNWUNUajMyVU44VHVHN0paSDhHZFlacldwSWh1RDJpQnBZWGZub3VzUHl5NmJiX3FyN3lZM0xBUERYSWRmX1FFU0JncmhKc0lOdDJFcW91ZzAtTllyM3JpcFVPcmpfeDVwVUtUQlp4LXFJYndTRDFKdUpaa0Via2hsOXZFaw?oc=5",
+      "source": "NonStop Local KHQ",
+      "sourceUrl": "https://www.khq.com",
+      "publishedAt": "2026-09-01T07:00:00.000Z",
       "states": [
         {
           "name": "Washington",
