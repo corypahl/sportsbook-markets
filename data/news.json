@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09",
+  "generatedAt": "2026-09-10",
   "source": "Google News",
   "query": "Kalshi (state OR lawsuit OR court OR regulator) when:90d",
   "queryUrl": "https://news.google.com/search?q=Kalshi+%28state+OR+lawsuit+OR+court+OR+regulator%29+when%3A90d&hl=en-US&gl=US&ceid=US%3Aen",
@@ -9,7 +9,7 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWm9RdkQ5b1hhOEl1XzFzTmUyM3Z0b2pfcjRoc2JoaFpUeHVKNXZzaW1HVGtwMXJVR216S0hrMURCYzNuQk10WEN4c3o3Z09FLWhiT1Yyc294eUk3RFdMT21qS1ZBXzV2M3g1RkhPRHU3RWtZQ2hveXNBRVpGU0lRLVZBRWMxMWd3OTRGRXp0aDJZR1hjTF9EZ1dxdEZaTFRxUzlqYzl2Ql84Zkw0d3lV?oc=5",
       "source": "Courthouse News",
       "sourceUrl": "https://www.courthousenews.com",
-      "publishedAt": "2026-09-09T04:28:52.000Z",
+      "publishedAt": "2026-09-09T04:07:56.000Z",
       "states": [
         {
           "name": "Iowa",
@@ -57,6 +57,19 @@
       ]
     },
     {
+      "title": "9th Circuit sides with states in Kalshi gambling fight, potentially reviving Arizona’s prosecution",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOalF0ZHlNWXV2eEVwTGNlM0Q5ZVI3RTFKYmp5LVhJOTloOVJDOGFuTS1ldkNUNi1XeXQwdERqN2VuT1dvQ3N2NHU2YUVndHBLM2QxWkRNazlBeWEyblA3dExrY3h1ZU5jR1hPRWRTNEptYm9fQ2lrbTUtY01NLWJ3R2ZwdkZKQjgzUC00NzlmN2FpOUZpc0hFR2dsWXdRVWxhOWE3dk1weEVTbDRIbExUZU9DbzljX0t2Qmd4UUh4VQ?oc=5",
+      "source": "ictnews.org",
+      "sourceUrl": "https://ictnews.org",
+      "publishedAt": "2026-09-04T19:43:28.000Z",
+      "states": [
+        {
+          "name": "Arizona",
+          "abbr": "AZ"
+        }
+      ]
+    },
+    {
       "title": "Nessel wins injunction against Kalshi as prediction market says Michigan lacks regulatory authority",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdDFOQVpMUy0tVXpVZTBGYVBCUHVCX2E2VjZESnc1UEpPYlo3ZlZFUFU5S1pwZ24zWTQxVEhQZlpNMFREcG5nYXdPTzZ2UE5kam9yWUFHeDZfemNvZW1PUnRBdGU1QnlLM2lRdjBaYURnQXE0S0tDZGtlQURnZEQxY29GVExCUlM3QnVWUEl2VVFDeFhtcEVIel82VnZOT2NpYmJpYTcyeXp0NGR5ZlFzNk5wN0dENWRZaDdFREs1TmQxeXhTbmtIOXc5UnJHcm9Udk5Ka19R?oc=5",
       "source": "Michigan Advance",
@@ -66,19 +79,6 @@
         {
           "name": "Michigan",
           "abbr": "MI"
-        }
-      ]
-    },
-    {
-      "title": "Kalshi accuses Washington AG of 'selective non-enforcement' of gambling laws",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNM3JwNHdvNE1IOXc3ZHhaZlhRR202aG1RYXNpRklmaW8wckNXWjJfZ21fUFFXanhkanU4cGFVc0VwaEt6Z1I4Y3lPUHZ0UVNpR05nTi1vR2tyUmlCRjVkeEdQMTUxdVdNWUNUajMyVU44VHVHN0paSDhHZFlacldwSWh1RDJpQnBZWGZub3VzUHl5NmJiX3FyN3lZM0xBUERYSWRmX1FFU0JncmhKc0lOdDJFcW91ZzAtTllyM3JpcFVPcmpfeDVwVUtUQlp4LXFJYndTRDFKdUpaa0Via2hsOXZFaw?oc=5",
-      "source": "NonStop Local KHQ",
-      "sourceUrl": "https://www.khq.com",
-      "publishedAt": "2026-09-01T07:00:00.000Z",
-      "states": [
-        {
-          "name": "Washington",
-          "abbr": "WA"
         }
       ]
     }
