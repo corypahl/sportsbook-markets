@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10",
+  "generatedAt": "2026-09-11",
   "source": "Google News",
   "query": "Kalshi (state OR lawsuit OR court OR regulator) when:90d",
   "queryUrl": "https://news.google.com/search?q=Kalshi+%28state+OR+lawsuit+OR+court+OR+regulator%29+when%3A90d&hl=en-US&gl=US&ceid=US%3Aen",
@@ -44,19 +44,6 @@
       ]
     },
     {
-      "title": "Nevada regulators double down on prediction market fight as Kalshi vows to keep battling",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxORlNkX2NmYWtvTWU5RzZUMUlGQWgyM3ljUmZ4VktpSkFiSmN4TnNnRXVFbU4zd2EtMDlYY2RONHJJRWxtaXE0aWx3TzY2ZzVrUXg1SUwyS3RWLUwxY09OQWhGVG9DYjhOMDhHUmFrWHU4a01VdFpFaXI2dWF3SmtIcUZxTUJLSkVPa0Z0bGwwSDM0VENvTFFSc3c3Qk04VkdkZjBvaVB1M1Zyd3VyMHpaajZSdEExOFlWYi12ZDFVWWR6b0FxTHhoLWt3VmNJUXkwX1pCbVd6MFhjdHJfSDhDY1dXVExPQQ?oc=5",
-      "source": "Las Vegas Review-Journal",
-      "sourceUrl": "https://www.reviewjournal.com",
-      "publishedAt": "2026-09-05T00:21:00.000Z",
-      "states": [
-        {
-          "name": "Nevada",
-          "abbr": "NV"
-        }
-      ]
-    },
-    {
       "title": "9th Circuit sides with states in Kalshi gambling fight, potentially reviving Arizona’s prosecution",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOalF0ZHlNWXV2eEVwTGNlM0Q5ZVI3RTFKYmp5LVhJOTloOVJDOGFuTS1ldkNUNi1XeXQwdERqN2VuT1dvQ3N2NHU2YUVndHBLM2QxWkRNazlBeWEyblA3dExrY3h1ZU5jR1hPRWRTNEptYm9fQ2lrbTUtY01NLWJ3R2ZwdkZKQjgzUC00NzlmN2FpOUZpc0hFR2dsWXdRVWxhOWE3dk1weEVTbDRIbExUZU9DbzljX0t2Qmd4UUh4VQ?oc=5",
       "source": "ictnews.org",
@@ -79,6 +66,19 @@
         {
           "name": "Michigan",
           "abbr": "MI"
+        }
+      ]
+    },
+    {
+      "title": "Kalshi Creeps Closer to Supreme Court Docket With Nevada Ruling",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeXZjWHQ2T2RQeEg3R0RFMGhaU244R2NWTHFRWmpVWWZFSDJnd05ldGRoanVDWDB1clJVcDcyOXUzOU1SdHktekhudm1FbjFmelJaOXM3UnJ3blZzUHZtYlIwcHhrMDJoM1ZHekROR0pseTRXbkZEbnFRME9jUmt0d3BqQjdWalBFNlh2bE9ackxnS2c0QTZhaHNwejdQMDNTczFoeGdXUQ?oc=5",
+      "source": "Sportico.com",
+      "sourceUrl": "https://www.sportico.com",
+      "publishedAt": "2026-08-31T07:00:00.000Z",
+      "states": [
+        {
+          "name": "Nevada",
+          "abbr": "NV"
         }
       ]
     }
