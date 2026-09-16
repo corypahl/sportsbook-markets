@@ -1,26 +1,13 @@
 {
-  "generatedAt": "2026-09-15",
+  "generatedAt": "2026-09-16",
   "source": "Google News",
   "query": "Kalshi (state OR lawsuit OR court OR regulator) when:90d",
   "queryUrl": "https://news.google.com/search?q=Kalshi+%28state+OR+lawsuit+OR+court+OR+regulator%29+when%3A90d&hl=en-US&gl=US&ceid=US%3Aen",
   "items": [
     {
-      "title": "Iowa defeat extends Kalshi losing stretch in federal court",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5USVZaYnpsNU81UWo0OHV3bnZwSDF2NnYwSDZjbmVxWl9sb1FzdWVralBpVmdYd21WV3NJSzRKV1BqSGlfNGtFdnNYTFBNd2xkalpfNWNuWXdpQ2tjVjRMV0VJZlJiU05iWUhURXFOSG4yU28xTkZYUWdTVkbSAYIBQVVfeXFMT1RHWE5OMm5vYmZNdk4tN2ROUVQycnR1a25vSUdIM0drTDl1QjY4TzVFQU1aOEx2bVBTaXl1NTJZcVcyM0ZNVW1tQ1pXTzhzR000WFVkWjY2Nm1MaW5XYkFXSU9xcmUxS3dhaExpU2NLR3E2OXNrc0ZROXVZV2JSOEJGdw?oc=5",
-      "source": "sbcamericas.com",
-      "sourceUrl": "https://sbcamericas.com",
-      "publishedAt": "2026-09-09T10:00:00.000Z",
-      "states": [
-        {
-          "name": "Iowa",
-          "abbr": "IA"
-        }
-      ]
-    },
-    {
       "title": "Kalshi’s general counsel looks to Supreme Court after New Jersey appeal",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNnkzb3JERHhJWmpJcXZNWTJnTTktcUNRWkZsSFFNcy00OGtETzZGYkxwVUlsMVVncmQtMGdvNWVDTnJCTFNQYW91NzRPSDcxN0lFQ3NKVkw4OW1QTTJWblhBOEwzZkVTSm14QndNemJyQWk0UDhjWXI0VmhRQnVvQ1hhYk44VGlrOVp1MEo4TzFTWWdrMWNHUzk5UTZrRnZkV00wVmw1SC1NcVRrVEtJdU9PUXg?oc=5",
-      "source": "azcapitoltimes.com",
+      "source": "Arizona Capitol Times",
       "sourceUrl": "https://azcapitoltimes.com",
       "publishedAt": "2026-09-08T03:23:30.000Z",
       "states": [
@@ -31,28 +18,28 @@
       ]
     },
     {
+      "title": "Nevada regulators double down on prediction market fight as Kalshi vows to keep battling",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxORlNkX2NmYWtvTWU5RzZUMUlGQWgyM3ljUmZ4VktpSkFiSmN4TnNnRXVFbU4zd2EtMDlYY2RONHJJRWxtaXE0aWx3TzY2ZzVrUXg1SUwyS3RWLUwxY09OQWhGVG9DYjhOMDhHUmFrWHU4a01VdFpFaXI2dWF3SmtIcUZxTUJLSkVPa0Z0bGwwSDM0VENvTFFSc3c3Qk04VkdkZjBvaVB1M1Zyd3VyMHpaajZSdEExOFlWYi12ZDFVWWR6b0FxTHhoLWt3VmNJUXkwX1pCbVd6MFhjdHJfSDhDY1dXVExPQQ?oc=5",
+      "source": "Las Vegas Review-Journal",
+      "sourceUrl": "https://www.reviewjournal.com",
+      "publishedAt": "2026-09-04T07:00:00.000Z",
+      "states": [
+        {
+          "name": "Nevada",
+          "abbr": "NV"
+        }
+      ]
+    },
+    {
       "title": "Nessel wins injunction against Kalshi as prediction market says Michigan lacks regulatory authority",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdDFOQVpMUy0tVXpVZTBGYVBCUHVCX2E2VjZESnc1UEpPYlo3ZlZFUFU5S1pwZ24zWTQxVEhQZlpNMFREcG5nYXdPTzZ2UE5kam9yWUFHeDZfemNvZW1PUnRBdGU1QnlLM2lRdjBaYURnQXE0S0tDZGtlQURnZEQxY29GVExCUlM3QnVWUEl2VVFDeFhtcEVIel82VnZOT2NpYmJpYTcyeXp0NGR5ZlFzNk5wN0dENWRZaDdFREs1TmQxeXhTbmtIOXc5UnJHcm9Udk5Ka19R?oc=5",
-      "source": "Michigan Advance",
+      "source": "michiganadvance.com",
       "sourceUrl": "https://michiganadvance.com",
       "publishedAt": "2026-09-03T07:00:00.000Z",
       "states": [
         {
           "name": "Michigan",
           "abbr": "MI"
-        }
-      ]
-    },
-    {
-      "title": "Federal judges uphold Kalshi ban in Nevada",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5vX0ZRckZ4TnEtM0N2YUVnemxEb2g0ZVkzc1F0TFI3MkxPRWU1QlI2eFJ6Y3FnLWNtanpEUmlRMVRpMW90SGs5UjVGZkdneWxxVmdsWlBDWEFicGREelNhaUVCaGdDMGVyRFgwUUhDZ0RNOGIxdk9US2llS0xrdw?oc=5",
-      "source": "KSNV",
-      "sourceUrl": "https://news3lv.com",
-      "publishedAt": "2026-09-03T07:00:00.000Z",
-      "states": [
-        {
-          "name": "Nevada",
-          "abbr": "NV"
         }
       ]
     },
@@ -70,15 +57,28 @@
       ]
     },
     {
-      "title": "Appeals court ruling could change Arizona fight against Kalshi",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd0Fxc0doOGhoZkRkMlMzV0laeVJzY3pWQmF4dHFEUGhIcDUwSFZnQUo0NXp4b3pLN0dlWGtrcUhzTmJyT2t1ckJ3UUVnaU1BTFhSZXFSNWhFWHdLaU9Jc05YdGl3SkFrREQwRi1RU1lpal9pLXZ3b3o5ZFFvdWtJWm1QdUZ5Y1MzMVlMQ0Q0azRKR0E5UXRUczFGQ01BbDFVcXM2N0pVMA?oc=5",
-      "source": "yourvalley.net",
-      "sourceUrl": "https://www.yourvalley.net",
-      "publishedAt": "2026-08-28T07:00:00.000Z",
+      "title": "9th Circuit sides with states in Kalshi gambling fight, potentially reviving Arizona’s prosecution",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNVjVsMnVybEl2UWFvZlFNenVXbUp2XzBScy1FTFpCRVB0bGVMVUpScWJkTF9QdGhhQU81S204dW96b3A4UEc2empsSG1qejNNM3VsUW9Ub2pTZlVoMnc2R2hBUXdoMUR3MHlZaHZ6RXVpQ1pYbk5oaTZjUnQ5WXFZSWFGTE9saWt3Y2QzTFZLRnJKN1phRWt1M2JrbjRHZVpIZnNManJHTXRkbkdSdEpZdzB6U3JpeTZDX0pIZGpCSXVlTlduZWRPc0EzNmFGNmRJbzlHOWZuQVcybnp4dW4wWTFia3ZWNTVlTGdhWkZtVQ?oc=5",
+      "source": "Tucson Sentinel",
+      "sourceUrl": "https://www.tucsonsentinel.com",
+      "publishedAt": "2026-08-31T19:59:17.000Z",
       "states": [
         {
           "name": "Arizona",
           "abbr": "AZ"
+        }
+      ]
+    },
+    {
+      "title": "Kentucky sues Kalshi over sports prediction markets",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1jZmRzQ3FFa0hERzg4Y3BQYWg0dENTaU9TdkNBelU4Y3RkWWE2ME5jZm9DWkIyelVRRWtyWWVNTXM5RlhLSXJJMS1jZG1ZRDF0d3ROOWhCZDF0VGNxOXY3eVRMYUxXaVpDRWR3R2FFc0F5Z1hlcWg0cmQwSktqdw?oc=5",
+      "source": "WNKY",
+      "sourceUrl": "https://www.wnky.com",
+      "publishedAt": "2026-08-28T07:00:00.000Z",
+      "states": [
+        {
+          "name": "Kentucky",
+          "abbr": "KY"
         }
       ]
     }
