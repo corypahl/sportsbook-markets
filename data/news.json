@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-09-16",
+  "generatedAt": "2026-09-17",
   "source": "Google News",
   "query": "Kalshi (state OR lawsuit OR court OR regulator) when:90d",
   "queryUrl": "https://news.google.com/search?q=Kalshi+%28state+OR+lawsuit+OR+court+OR+regulator%29+when%3A90d&hl=en-US&gl=US&ceid=US%3Aen",
   "items": [
     {
-      "title": "Kalshi’s general counsel looks to Supreme Court after New Jersey appeal",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNnkzb3JERHhJWmpJcXZNWTJnTTktcUNRWkZsSFFNcy00OGtETzZGYkxwVUlsMVVncmQtMGdvNWVDTnJCTFNQYW91NzRPSDcxN0lFQ3NKVkw4OW1QTTJWblhBOEwzZkVTSm14QndNemJyQWk0UDhjWXI0VmhRQnVvQ1hhYk44VGlrOVp1MEo4TzFTWWdrMWNHUzk5UTZrRnZkV00wVmw1SC1NcVRrVEtJdU9PUXg?oc=5",
-      "source": "Arizona Capitol Times",
-      "sourceUrl": "https://azcapitoltimes.com",
-      "publishedAt": "2026-09-08T03:23:30.000Z",
+      "title": "New Mexico tribe and pueblos wrap up case that Kalshi sports betting hurts their sovereignty",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYnNGcjdmSDdGUVNtNk45UjZoam4zYXh2eEQ5Yk1FbWpYQTBOQ1NHUTcwOG5oY25qTWp1b09VUzhDeC1pVFNidV9NOXdlTXNQSE1fRlJhdmdnSkpBek1BSGdRcS1NbEpDVWJCY0hHa2VMRG1rN2l1NUoyMzZiNGxsckhVVFVMMGdmNVVpZ1JISEtaMEdqNTlEVWhqUWVQY1BHWDZXWnNQU2dQQmt2VmlRQkdqR3NhQjV1dnlfM3FHdHNGRjA?oc=5",
+      "source": "Source New Mexico",
+      "sourceUrl": "https://sourcenm.com",
+      "publishedAt": "2026-09-08T07:00:00.000Z",
       "states": [
         {
-          "name": "New Jersey",
-          "abbr": "NJ"
+          "name": "New Mexico",
+          "abbr": "NM"
         }
       ]
     },
@@ -33,13 +33,26 @@
     {
       "title": "Nessel wins injunction against Kalshi as prediction market says Michigan lacks regulatory authority",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdDFOQVpMUy0tVXpVZTBGYVBCUHVCX2E2VjZESnc1UEpPYlo3ZlZFUFU5S1pwZ24zWTQxVEhQZlpNMFREcG5nYXdPTzZ2UE5kam9yWUFHeDZfemNvZW1PUnRBdGU1QnlLM2lRdjBaYURnQXE0S0tDZGtlQURnZEQxY29GVExCUlM3QnVWUEl2VVFDeFhtcEVIel82VnZOT2NpYmJpYTcyeXp0NGR5ZlFzNk5wN0dENWRZaDdFREs1TmQxeXhTbmtIOXc5UnJHcm9Udk5Ka19R?oc=5",
-      "source": "michiganadvance.com",
+      "source": "Michigan Advance",
       "sourceUrl": "https://michiganadvance.com",
       "publishedAt": "2026-09-03T07:00:00.000Z",
       "states": [
         {
           "name": "Michigan",
           "abbr": "MI"
+        }
+      ]
+    },
+    {
+      "title": "New Jersey petitions Supreme Court to block Kalshi from sidestepping state gambling laws",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNWJZOHIyVF82M3JScXNBalR5cGhuV0ZvUmJGQXowSlFLSlZZM09sN1R1Mk5lOU5yMnhta2JDWEFtVVFaOWNhZW1sczhSV0VnMHYxUDBHdUF2Q1dndEs0ZVhVdGszS0hKTGxScVIzWlVTdFBDc3FOV0EzZDFqM3NuR0pvQS1iYVVFa0dDUTJDOWt1YncxMDdMajBxeE80T0M3MjJIejNGNGw5RGpzNHZJYzBSSVMwYzFWTXBvUS04Sl9ISkp6Q2dNdw?oc=5",
+      "source": "The Jersey Vindicator",
+      "sourceUrl": "https://jerseyvindicator.org",
+      "publishedAt": "2026-09-02T22:46:23.000Z",
+      "states": [
+        {
+          "name": "New Jersey",
+          "abbr": "NJ"
         }
       ]
     },
@@ -66,19 +79,6 @@
         {
           "name": "Arizona",
           "abbr": "AZ"
-        }
-      ]
-    },
-    {
-      "title": "Kentucky sues Kalshi over sports prediction markets",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1jZmRzQ3FFa0hERzg4Y3BQYWg0dENTaU9TdkNBelU4Y3RkWWE2ME5jZm9DWkIyelVRRWtyWWVNTXM5RlhLSXJJMS1jZG1ZRDF0d3ROOWhCZDF0VGNxOXY3eVRMYUxXaVpDRWR3R2FFc0F5Z1hlcWg0cmQwSktqdw?oc=5",
-      "source": "WNKY",
-      "sourceUrl": "https://www.wnky.com",
-      "publishedAt": "2026-08-28T07:00:00.000Z",
-      "states": [
-        {
-          "name": "Kentucky",
-          "abbr": "KY"
         }
       ]
     }
