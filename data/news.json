@@ -1,9 +1,22 @@
 {
-  "generatedAt": "2026-09-17",
+  "generatedAt": "2026-09-18",
   "source": "Google News",
   "query": "Kalshi (state OR lawsuit OR court OR regulator) when:90d",
   "queryUrl": "https://news.google.com/search?q=Kalshi+%28state+OR+lawsuit+OR+court+OR+regulator%29+when%3A90d&hl=en-US&gl=US&ceid=US%3Aen",
   "items": [
+    {
+      "title": "Iowa defeat extends Kalshi losing stretch in federal court",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5USVZaYnpsNU81UWo0OHV3bnZwSDF2NnYwSDZjbmVxWl9sb1FzdWVralBpVmdYd21WV3NJSzRKV1BqSGlfNGtFdnNYTFBNd2xkalpfNWNuWXdpQ2tjVjRMV0VJZlJiU05iWUhURXFOSG4yU28xTkZYUWdTVkbSAYIBQVVfeXFMT1RHWE5OMm5vYmZNdk4tN2ROUVQycnR1a25vSUdIM0drTDl1QjY4TzVFQU1aOEx2bVBTaXl1NTJZcVcyM0ZNVW1tQ1pXTzhzR000WFVkWjY2Nm1MaW5XYkFXSU9xcmUxS3dhaExpU2NLR3E2OXNrc0ZROXVZV2JSOEJGdw?oc=5",
+      "source": "sbcamericas.com",
+      "sourceUrl": "https://sbcamericas.com",
+      "publishedAt": "2026-09-09T10:00:00.000Z",
+      "states": [
+        {
+          "name": "Iowa",
+          "abbr": "IA"
+        }
+      ]
+    },
     {
       "title": "New Mexico tribe and pueblos wrap up case that Kalshi sports betting hurts their sovereignty",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYnNGcjdmSDdGUVNtNk45UjZoam4zYXh2eEQ5Yk1FbWpYQTBOQ1NHUTcwOG5oY25qTWp1b09VUzhDeC1pVFNidV9NOXdlTXNQSE1fRlJhdmdnSkpBek1BSGdRcS1NbEpDVWJCY0hHa2VMRG1rN2l1NUoyMzZiNGxsckhVVFVMMGdmNVVpZ1JISEtaMEdqNTlEVWhqUWVQY1BHWDZXWnNQU2dQQmt2VmlRQkdqR3NhQjV1dnlfM3FHdHNGRjA?oc=5",
@@ -14,6 +27,19 @@
         {
           "name": "New Mexico",
           "abbr": "NM"
+        }
+      ]
+    },
+    {
+      "title": "New Jersey Seeks Supreme Court Review of Kalshi Decision… and One Additional Argument That May Come into Play",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNeE4wVDRESEh4VzUwX2VFdDg2b0hJR08wUHJ6dmo5cTNLSFFXRDR4NkV5cEVKdkdWS242NFduQ2VOYzJQcGFTTm9LeVpQMHlTYjNieDVTSUE4TGdidE1XRGNrWk9pMUdOa0JuUTJ2bllzN2liS3hVNVYyYVlGc214ZFBRYzA2TzlSTVZraGprcmpLR3RWMHRCT0s2ZklJRWEzd3pQendOMnJmMlJvWUtLOVg2UVVlS0d2VE1IZXlEWUF5ZW1PMzFyRXNLVE0wQ0RtekxsSTNXT3duTFZBV0VCdksyaEpQZw?oc=5",
+      "source": "Blank Rome LLP",
+      "sourceUrl": "https://www.blankrome.com",
+      "publishedAt": "2026-09-04T07:00:00.000Z",
+      "states": [
+        {
+          "name": "New Jersey",
+          "abbr": "NJ"
         }
       ]
     },
@@ -44,19 +70,6 @@
       ]
     },
     {
-      "title": "New Jersey petitions Supreme Court to block Kalshi from sidestepping state gambling laws",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNWJZOHIyVF82M3JScXNBalR5cGhuV0ZvUmJGQXowSlFLSlZZM09sN1R1Mk5lOU5yMnhta2JDWEFtVVFaOWNhZW1sczhSV0VnMHYxUDBHdUF2Q1dndEs0ZVhVdGszS0hKTGxScVIzWlVTdFBDc3FOV0EzZDFqM3NuR0pvQS1iYVVFa0dDUTJDOWt1YncxMDdMajBxeE80T0M3MjJIejNGNGw5RGpzNHZJYzBSSVMwYzFWTXBvUS04Sl9ISkp6Q2dNdw?oc=5",
-      "source": "The Jersey Vindicator",
-      "sourceUrl": "https://jerseyvindicator.org",
-      "publishedAt": "2026-09-02T22:46:23.000Z",
-      "states": [
-        {
-          "name": "New Jersey",
-          "abbr": "NJ"
-        }
-      ]
-    },
-    {
       "title": "Washington judge orders Kalshi to geofence out sports and election betting",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaWFiQ2o2UGNvOWdrM0Y0cTV2ak1OaUpBbnBJaG1TeG5FMUU2ZTlQbWJuMTRwWWpQQlBoTHZGcTVBc2xBMlVibkRmMF94eWN2STZXVVhjeEtKRUFBZ2JOc0VCSlhkZVowMEhLOEo5eDUxWlhvMVhrR3VvVWVEUFJ3ZE1OZkdUVXNXUzhB?oc=5",
       "source": "qz.com",
@@ -66,19 +79,6 @@
         {
           "name": "Washington",
           "abbr": "WA"
-        }
-      ]
-    },
-    {
-      "title": "9th Circuit sides with states in Kalshi gambling fight, potentially reviving Arizona’s prosecution",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNVjVsMnVybEl2UWFvZlFNenVXbUp2XzBScy1FTFpCRVB0bGVMVUpScWJkTF9QdGhhQU81S204dW96b3A4UEc2empsSG1qejNNM3VsUW9Ub2pTZlVoMnc2R2hBUXdoMUR3MHlZaHZ6RXVpQ1pYbk5oaTZjUnQ5WXFZSWFGTE9saWt3Y2QzTFZLRnJKN1phRWt1M2JrbjRHZVpIZnNManJHTXRkbkdSdEpZdzB6U3JpeTZDX0pIZGpCSXVlTlduZWRPc0EzNmFGNmRJbzlHOWZuQVcybnp4dW4wWTFia3ZWNTVlTGdhWkZtVQ?oc=5",
-      "source": "Tucson Sentinel",
-      "sourceUrl": "https://www.tucsonsentinel.com",
-      "publishedAt": "2026-08-31T19:59:17.000Z",
-      "states": [
-        {
-          "name": "Arizona",
-          "abbr": "AZ"
         }
       ]
     }
