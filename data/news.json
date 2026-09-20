@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18",
+  "generatedAt": "2026-09-20",
   "source": "Google News",
   "query": "Kalshi (state OR lawsuit OR court OR regulator) when:90d",
   "queryUrl": "https://news.google.com/search?q=Kalshi+%28state+OR+lawsuit+OR+court+OR+regulator%29+when%3A90d&hl=en-US&gl=US&ceid=US%3Aen",
@@ -31,11 +31,11 @@
       ]
     },
     {
-      "title": "New Jersey Seeks Supreme Court Review of Kalshi Decision… and One Additional Argument That May Come into Play",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNeE4wVDRESEh4VzUwX2VFdDg2b0hJR08wUHJ6dmo5cTNLSFFXRDR4NkV5cEVKdkdWS242NFduQ2VOYzJQcGFTTm9LeVpQMHlTYjNieDVTSUE4TGdidE1XRGNrWk9pMUdOa0JuUTJ2bllzN2liS3hVNVYyYVlGc214ZFBRYzA2TzlSTVZraGprcmpLR3RWMHRCT0s2ZklJRWEzd3pQendOMnJmMlJvWUtLOVg2UVVlS0d2VE1IZXlEWUF5ZW1PMzFyRXNLVE0wQ0RtekxsSTNXT3duTFZBV0VCdksyaEpQZw?oc=5",
-      "source": "Blank Rome LLP",
-      "sourceUrl": "https://www.blankrome.com",
-      "publishedAt": "2026-09-04T07:00:00.000Z",
+      "title": "Kalshi’s general counsel looks to Supreme Court after New Jersey appeal",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNnkzb3JERHhJWmpJcXZNWTJnTTktcUNRWkZsSFFNcy00OGtETzZGYkxwVUlsMVVncmQtMGdvNWVDTnJCTFNQYW91NzRPSDcxN0lFQ3NKVkw4OW1QTTJWblhBOEwzZkVTSm14QndNemJyQWk0UDhjWXI0VmhRQnVvQ1hhYk44VGlrOVp1MEo4TzFTWWdrMWNHUzk5UTZrRnZkV00wVmw1SC1NcVRrVEtJdU9PUXg?oc=5",
+      "source": "Arizona Capitol Times",
+      "sourceUrl": "https://azcapitoltimes.com",
+      "publishedAt": "2026-09-07T07:00:00.000Z",
       "states": [
         {
           "name": "New Jersey",
@@ -70,15 +70,15 @@
       ]
     },
     {
-      "title": "Washington judge orders Kalshi to geofence out sports and election betting",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaWFiQ2o2UGNvOWdrM0Y0cTV2ak1OaUpBbnBJaG1TeG5FMUU2ZTlQbWJuMTRwWWpQQlBoTHZGcTVBc2xBMlVibkRmMF94eWN2STZXVVhjeEtKRUFBZ2JOc0VCSlhkZVowMEhLOEo5eDUxWlhvMVhrR3VvVWVEUFJ3ZE1OZkdUVXNXUzhB?oc=5",
-      "source": "qz.com",
-      "sourceUrl": "https://qz.com",
-      "publishedAt": "2026-09-02T07:00:00.000Z",
+      "title": "Connecticut Sues Kalshi Over Alleged Unlicensed Sports Betting",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOY0xyMHAtWTZYaHNEVUtzRHg0WXFId0lXLVlKR0M0eHFrTENQd2x2MWt6V3BsZXNMblRxYVFpVjZ0U1pJcWstdlVqUG1ZMzM2ZEJCRERMV05zMWZSU2U5SkhOMlR5RUM4QkFuU3RScTdLNmxLTTdTLXhsYzNyMlpXbmhSclFYZUh3V0Jla0twSU5Pd3VoR1NWNTdpRWRWLU52aVpN?oc=5",
+      "source": "Law Commentary",
+      "sourceUrl": "https://www.lawcommentary.com",
+      "publishedAt": "2026-08-29T07:00:00.000Z",
       "states": [
         {
-          "name": "Washington",
-          "abbr": "WA"
+          "name": "Connecticut",
+          "abbr": "CT"
         }
       ]
     }
