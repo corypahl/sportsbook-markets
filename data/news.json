@@ -1,22 +1,9 @@
 {
-  "generatedAt": "2026-09-20",
+  "generatedAt": "2026-09-21",
   "source": "Google News",
   "query": "Kalshi (state OR lawsuit OR court OR regulator) when:90d",
   "queryUrl": "https://news.google.com/search?q=Kalshi+%28state+OR+lawsuit+OR+court+OR+regulator%29+when%3A90d&hl=en-US&gl=US&ceid=US%3Aen",
   "items": [
-    {
-      "title": "Iowa defeat extends Kalshi losing stretch in federal court",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5USVZaYnpsNU81UWo0OHV3bnZwSDF2NnYwSDZjbmVxWl9sb1FzdWVralBpVmdYd21WV3NJSzRKV1BqSGlfNGtFdnNYTFBNd2xkalpfNWNuWXdpQ2tjVjRMV0VJZlJiU05iWUhURXFOSG4yU28xTkZYUWdTVkbSAYIBQVVfeXFMT1RHWE5OMm5vYmZNdk4tN2ROUVQycnR1a25vSUdIM0drTDl1QjY4TzVFQU1aOEx2bVBTaXl1NTJZcVcyM0ZNVW1tQ1pXTzhzR000WFVkWjY2Nm1MaW5XYkFXSU9xcmUxS3dhaExpU2NLR3E2OXNrc0ZROXVZV2JSOEJGdw?oc=5",
-      "source": "sbcamericas.com",
-      "sourceUrl": "https://sbcamericas.com",
-      "publishedAt": "2026-09-09T10:00:00.000Z",
-      "states": [
-        {
-          "name": "Iowa",
-          "abbr": "IA"
-        }
-      ]
-    },
     {
       "title": "New Mexico tribe and pueblos wrap up case that Kalshi sports betting hurts their sovereignty",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYnNGcjdmSDdGUVNtNk45UjZoam4zYXh2eEQ5Yk1FbWpYQTBOQ1NHUTcwOG5oY25qTWp1b09VUzhDeC1pVFNidV9NOXdlTXNQSE1fRlJhdmdnSkpBek1BSGdRcS1NbEpDVWJCY0hHa2VMRG1rN2l1NUoyMzZiNGxsckhVVFVMMGdmNVVpZ1JISEtaMEdqNTlEVWhqUWVQY1BHWDZXWnNQU2dQQmt2VmlRQkdqR3NhQjV1dnlfM3FHdHNGRjA?oc=5",
@@ -79,6 +66,19 @@
         {
           "name": "Connecticut",
           "abbr": "CT"
+        }
+      ]
+    },
+    {
+      "title": "Appeals court ruling could change Arizona fight against Kalshi",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd0Fxc0doOGhoZkRkMlMzV0laeVJzY3pWQmF4dHFEUGhIcDUwSFZnQUo0NXp4b3pLN0dlWGtrcUhzTmJyT2t1ckJ3UUVnaU1BTFhSZXFSNWhFWHdLaU9Jc05YdGl3SkFrREQwRi1RU1lpal9pLXZ3b3o5ZFFvdWtJWm1QdUZ5Y1MzMVlMQ0Q0azRKR0E5UXRUczFGQ01BbDFVcXM2N0pVMA?oc=5",
+      "source": "yourvalley.net",
+      "sourceUrl": "https://www.yourvalley.net",
+      "publishedAt": "2026-08-28T07:00:00.000Z",
+      "states": [
+        {
+          "name": "Arizona",
+          "abbr": "AZ"
         }
       ]
     }
