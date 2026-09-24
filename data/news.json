@@ -1,9 +1,22 @@
 {
-  "generatedAt": "2026-09-23",
+  "generatedAt": "2026-09-24",
   "source": "Google News",
   "query": "Kalshi (state OR lawsuit OR court OR regulator) when:90d",
   "queryUrl": "https://news.google.com/search?q=Kalshi+%28state+OR+lawsuit+OR+court+OR+regulator%29+when%3A90d&hl=en-US&gl=US&ceid=US%3Aen",
   "items": [
+    {
+      "title": "New York sues Polymarket U.S., two months after filing lawsuit against Kalshi",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZXRQTGN0YUZld00wenVmVU5qZjlFNHhjZEhjOWhOdlBmclpYc3BkaXpEdWNqQW43Yk0wSFpuNWE0YmhLVUt1MC1uY21DYnZvdmlUX2E2dFJxWTl0NlJnZ2diVlhlT0tSWkcxdUl5TDRNeXFoZzlTZFFXcmNoc1RFZ2tjMFJHbnl5NnZXR1RqYjBtSjVwSmtSMFlHQnVkX0NrMFgtTUhBMno5Zzc4M3fSAbMBQVVfeXFMTVFKNWhOS0IzQUJiUnI5TmNtLWRxVjdPVXdqWnZBVEgzUkpyUWtaZzk4R1BoS3RBbVBUdDJzUWxjblhVamZkVFRmNXdHYVpQX1lOTEM2Y0NiRmxhblBBU1duZ2M0eGtKZGg3SEJIUHJLWWdKdTB5QXBnNU5sUmdfdTJaX2tQcTMxak5LQS1fWnUtamdualF3Sm81dzUtSU1DcHNJQWo5TkVkQk5NVzhaenpRS1E?oc=5",
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com",
+      "publishedAt": "2026-09-24T16:31:00.000Z",
+      "states": [
+        {
+          "name": "New York",
+          "abbr": "NY"
+        }
+      ]
+    },
     {
       "title": "New Mexico tribe and pueblos wrap up case that Kalshi sports betting hurts their sovereignty",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYnNGcjdmSDdGUVNtNk45UjZoam4zYXh2eEQ5Yk1FbWpYQTBOQ1NHUTcwOG5oY25qTWp1b09VUzhDeC1pVFNidV9NOXdlTXNQSE1fRlJhdmdnSkpBek1BSGdRcS1NbEpDVWJCY0hHa2VMRG1rN2l1NUoyMzZiNGxsckhVVFVMMGdmNVVpZ1JISEtaMEdqNTlEVWhqUWVQY1BHWDZXWnNQU2dQQmt2VmlRQkdqR3NhQjV1dnlfM3FHdHNGRjA?oc=5",
@@ -33,7 +46,7 @@
     {
       "title": "Nessel wins injunction against Kalshi as prediction market says Michigan lacks regulatory authority",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdDFOQVpMUy0tVXpVZTBGYVBCUHVCX2E2VjZESnc1UEpPYlo3ZlZFUFU5S1pwZ24zWTQxVEhQZlpNMFREcG5nYXdPTzZ2UE5kam9yWUFHeDZfemNvZW1PUnRBdGU1QnlLM2lRdjBaYURnQXE0S0tDZGtlQURnZEQxY29GVExCUlM3QnVWUEl2VVFDeFhtcEVIel82VnZOT2NpYmJpYTcyeXp0NGR5ZlFzNk5wN0dENWRZaDdFREs1TmQxeXhTbmtIOXc5UnJHcm9Udk5Ka19R?oc=5",
-      "source": "Michigan Advance",
+      "source": "michiganadvance.com",
       "sourceUrl": "https://michiganadvance.com",
       "publishedAt": "2026-09-03T07:00:00.000Z",
       "states": [
@@ -66,19 +79,6 @@
         {
           "name": "Washington",
           "abbr": "WA"
-        }
-      ]
-    },
-    {
-      "title": "Connecticut Sues Kalshi Over Alleged Unlicensed Sports Betting",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOY0xyMHAtWTZYaHNEVUtzRHg0WXFId0lXLVlKR0M0eHFrTENQd2x2MWt6V3BsZXNMblRxYVFpVjZ0U1pJcWstdlVqUG1ZMzM2ZEJCRERMV05zMWZSU2U5SkhOMlR5RUM4QkFuU3RScTdLNmxLTTdTLXhsYzNyMlpXbmhSclFYZUh3V0Jla0twSU5Pd3VoR1NWNTdpRWRWLU52aVpN?oc=5",
-      "source": "Law Commentary",
-      "sourceUrl": "https://www.lawcommentary.com",
-      "publishedAt": "2026-08-29T07:00:00.000Z",
-      "states": [
-        {
-          "name": "Connecticut",
-          "abbr": "CT"
         }
       ]
     }
