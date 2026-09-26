@@ -1,19 +1,23 @@
 {
-  "generatedAt": "2026-09-24",
+  "generatedAt": "2026-09-26",
   "source": "Google News",
   "query": "Kalshi (state OR lawsuit OR court OR regulator) when:90d",
   "queryUrl": "https://news.google.com/search?q=Kalshi+%28state+OR+lawsuit+OR+court+OR+regulator%29+when%3A90d&hl=en-US&gl=US&ceid=US%3Aen",
   "items": [
     {
-      "title": "New York sues Polymarket U.S., two months after filing lawsuit against Kalshi",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZXRQTGN0YUZld00wenVmVU5qZjlFNHhjZEhjOWhOdlBmclpYc3BkaXpEdWNqQW43Yk0wSFpuNWE0YmhLVUt1MC1uY21DYnZvdmlUX2E2dFJxWTl0NlJnZ2diVlhlT0tSWkcxdUl5TDRNeXFoZzlTZFFXcmNoc1RFZ2tjMFJHbnl5NnZXR1RqYjBtSjVwSmtSMFlHQnVkX0NrMFgtTUhBMno5Zzc4M3fSAbMBQVVfeXFMTVFKNWhOS0IzQUJiUnI5TmNtLWRxVjdPVXdqWnZBVEgzUkpyUWtaZzk4R1BoS3RBbVBUdDJzUWxjblhVamZkVFRmNXdHYVpQX1lOTEM2Y0NiRmxhblBBU1duZ2M0eGtKZGg3SEJIUHJLWWdKdTB5QXBnNU5sUmdfdTJaX2tQcTMxak5LQS1fWnUtamdualF3Sm81dzUtSU1DcHNJQWo5TkVkQk5NVzhaenpRS1E?oc=5",
-      "source": "CNBC",
-      "sourceUrl": "https://www.cnbc.com",
-      "publishedAt": "2026-09-24T16:31:00.000Z",
+      "title": "Kalshi Can Face Ohio, Tennessee Enforcement After New Ruling (1)",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSTRrUEZyaTJFc0lxXzYtRHFrWEtJMk9VZ0VFd3UxRkZqUnFaNGwwMmJOWjlNSTUwbld1S0MzYi1ia0lZZW5haHNOckJVT0Y5VHNvU2swUDFwUVpGbHFXay1QVXItOEctTG1FZVd2eWI3bEVDOGh4aWNMTldDME5IYzQ5TUJEeDQ3cUdZOFhzb0hsRzNiVWs0bmRYbW9VTzVabExXUg?oc=5",
+      "source": "Bloomberg Law News",
+      "sourceUrl": "https://news.bloomberglaw.com",
+      "publishedAt": "2026-09-25T20:01:00.000Z",
       "states": [
         {
-          "name": "New York",
-          "abbr": "NY"
+          "name": "Ohio",
+          "abbr": "OH"
+        },
+        {
+          "name": "Tennessee",
+          "abbr": "TN"
         }
       ]
     },
@@ -27,6 +31,32 @@
         {
           "name": "New Mexico",
           "abbr": "NM"
+        }
+      ]
+    },
+    {
+      "title": "10th Circ. Won't Block Utah Enforcement Amid Kalshi Appeal",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSXlFdUxzMVZPWUd0LXU2TlNMOF84MFNfWWFTZldtZ0dCMmNWLXAtMndHMnpEb1JvWExEdUsyWE5qWUVBUnNjZmMtLWQ4R1l3c1djM01hODBJMUFWWEdMb3M0RDRRczh2NlBHeTYyQy1ZWTFyZ0JjS2xKTWxnZThNSWlKVFdKNTEyWmFOVEhoWHVIR29haXRmZGpfVVpUQdIBVkFVX3lxTE9xdzlFUXY2RUpEX2VOQkRnZ05fT0pSQkx1Q2NrZ0JJMTlGNm5FbnNmb1NCNEJuZy04Z082Yk1FcUJoMkJNTWMtTUtNeDNhUlRuc1huMlh3?oc=5",
+      "source": "Law360",
+      "sourceUrl": "https://www.law360.com",
+      "publishedAt": "2026-09-08T07:00:00.000Z",
+      "states": [
+        {
+          "name": "Utah",
+          "abbr": "UT"
+        }
+      ]
+    },
+    {
+      "title": "New Jersey Takes Fight Over Kalshi’s Prediction Market to US Supreme Court",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Ldm9KOWdHMXlvWGtSbXIxbThvdThUMHIyaUotYlJtVFhBZ3czR2pOSmQybmNNN212MnlIbHo3WTVoM09nUTFHSFlIa3BPQTNFX2VjOGd3NGtrTVJnVlk1OE9iWkF6ejJwUy1fSUhzNmVSQQ?oc=5",
+      "source": "Insurance Journal",
+      "sourceUrl": "https://www.insurancejournal.com",
+      "publishedAt": "2026-09-04T07:00:00.000Z",
+      "states": [
+        {
+          "name": "New Jersey",
+          "abbr": "NJ"
         }
       ]
     },
@@ -46,39 +76,13 @@
     {
       "title": "Nessel wins injunction against Kalshi as prediction market says Michigan lacks regulatory authority",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdDFOQVpMUy0tVXpVZTBGYVBCUHVCX2E2VjZESnc1UEpPYlo3ZlZFUFU5S1pwZ24zWTQxVEhQZlpNMFREcG5nYXdPTzZ2UE5kam9yWUFHeDZfemNvZW1PUnRBdGU1QnlLM2lRdjBaYURnQXE0S0tDZGtlQURnZEQxY29GVExCUlM3QnVWUEl2VVFDeFhtcEVIel82VnZOT2NpYmJpYTcyeXp0NGR5ZlFzNk5wN0dENWRZaDdFREs1TmQxeXhTbmtIOXc5UnJHcm9Udk5Ka19R?oc=5",
-      "source": "michiganadvance.com",
+      "source": "Michigan Advance",
       "sourceUrl": "https://michiganadvance.com",
       "publishedAt": "2026-09-03T07:00:00.000Z",
       "states": [
         {
           "name": "Michigan",
           "abbr": "MI"
-        }
-      ]
-    },
-    {
-      "title": "New Jersey asks Supreme Court to resolve fight over Kalshi's future",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQUNkYzZKWTVULVd6djNERDZ3aUwzXzFpbWpRdUc5UFZqZHJjLWxIWWhyLU5xOEt6MWlkWTRERHVrMjgwdDNQU0NxOThJNHJvV2JaWnI4WmwwNmtXVTdleHc1OXRmMmEwQTNFNlJ5Q21fZ0s2WFg4MnFOOE1KczdMdExOQzlfMGlMNnRPU1YzVzZkaHdLcFNwM1NsNA?oc=5",
-      "source": "NPR",
-      "sourceUrl": "https://www.npr.org",
-      "publishedAt": "2026-09-02T07:00:00.000Z",
-      "states": [
-        {
-          "name": "New Jersey",
-          "abbr": "NJ"
-        }
-      ]
-    },
-    {
-      "title": "Kalshi accuses Washington AG of 'selective non-enforcement' of gambling laws",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNM3JwNHdvNE1IOXc3ZHhaZlhRR202aG1RYXNpRklmaW8wckNXWjJfZ21fUFFXanhkanU4cGFVc0VwaEt6Z1I4Y3lPUHZ0UVNpR05nTi1vR2tyUmlCRjVkeEdQMTUxdVdNWUNUajMyVU44VHVHN0paSDhHZFlacldwSWh1RDJpQnBZWGZub3VzUHl5NmJiX3FyN3lZM0xBUERYSWRmX1FFU0JncmhKc0lOdDJFcW91ZzAtTllyM3JpcFVPcmpfeDVwVUtUQlp4LXFJYndTRDFKdUpaa0Via2hsOXZFaw?oc=5",
-      "source": "NonStop Local KHQ",
-      "sourceUrl": "https://www.khq.com",
-      "publishedAt": "2026-09-01T07:00:00.000Z",
-      "states": [
-        {
-          "name": "Washington",
-          "abbr": "WA"
         }
       ]
     }
