@@ -1,15 +1,28 @@
 {
-  "generatedAt": "2026-09-26",
+  "generatedAt": "2026-09-28",
   "source": "Google News",
   "query": "Kalshi (state OR lawsuit OR court OR regulator) when:90d",
   "queryUrl": "https://news.google.com/search?q=Kalshi+%28state+OR+lawsuit+OR+court+OR+regulator%29+when%3A90d&hl=en-US&gl=US&ceid=US%3Aen",
   "items": [
     {
-      "title": "Kalshi Can Face Ohio, Tennessee Enforcement After New Ruling (1)",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSTRrUEZyaTJFc0lxXzYtRHFrWEtJMk9VZ0VFd3UxRkZqUnFaNGwwMmJOWjlNSTUwbld1S0MzYi1ia0lZZW5haHNOckJVT0Y5VHNvU2swUDFwUVpGbHFXay1QVXItOEctTG1FZVd2eWI3bEVDOGh4aWNMTldDME5IYzQ5TUJEeDQ3cUdZOFhzb0hsRzNiVWs0bmRYbW9VTzVabExXUg?oc=5",
-      "source": "Bloomberg Law News",
-      "sourceUrl": "https://news.bloomberglaw.com",
-      "publishedAt": "2026-09-25T20:01:00.000Z",
+      "title": "Federal court rules Kalshi is subject to Tennessee’s gambling laws for sports contracts",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcGF4VVB4cmgxYkNiaVBjQnplc3lVNFlGUk42aFp0cmlFMGM3VXNYdGtQWHdDXzl5d3RGWXVmQUNuMk1mb2swdEtxMDNpMmQ3cUJmMzNBWXdWaHZNS1JlLXFKWG5DN3lvVWZyQUtvQXdRMm5UOU40dUFzTzh5bl9VWVFZMVNwWVBZMDlfOXNQSkd0SXdtdXkxeG9GaTdRUExXVkUxSkYtWm85R19WNGFWazRLY3pkTXM2czhYQVhnV0c1WGVZQkE?oc=5",
+      "source": "tennesseelookout.com",
+      "sourceUrl": "https://tennesseelookout.com",
+      "publishedAt": "2026-09-28T17:50:53.000Z",
+      "states": [
+        {
+          "name": "Tennessee",
+          "abbr": "TN"
+        }
+      ]
+    },
+    {
+      "title": "Appeals court says Ohio and Tennessee can regulate Kalshi under gambling laws",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSUhTLTh1TlFLN3dPbDhvdGk2TWQtTV8wSDZaSkdUaDJwLVF5U1JhdkhjRTZIelgtQ19fLUhrdnZsemM2TDRUN1pFekxPSE9fWGM5Vm5FalE5SzUyMFpfel9OZ0dkMW5SX2xOYnU5aVhrMXFMOHdMX1Z1eVVnNk1IbnRsUmdXMWs?oc=5",
+      "source": "Mashable",
+      "sourceUrl": "https://mashable.com",
+      "publishedAt": "2026-09-28T13:39:27.000Z",
       "states": [
         {
           "name": "Ohio",
@@ -31,19 +44,6 @@
         {
           "name": "New Mexico",
           "abbr": "NM"
-        }
-      ]
-    },
-    {
-      "title": "10th Circ. Won't Block Utah Enforcement Amid Kalshi Appeal",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSXlFdUxzMVZPWUd0LXU2TlNMOF84MFNfWWFTZldtZ0dCMmNWLXAtMndHMnpEb1JvWExEdUsyWE5qWUVBUnNjZmMtLWQ4R1l3c1djM01hODBJMUFWWEdMb3M0RDRRczh2NlBHeTYyQy1ZWTFyZ0JjS2xKTWxnZThNSWlKVFdKNTEyWmFOVEhoWHVIR29haXRmZGpfVVpUQdIBVkFVX3lxTE9xdzlFUXY2RUpEX2VOQkRnZ05fT0pSQkx1Q2NrZ0JJMTlGNm5FbnNmb1NCNEJuZy04Z082Yk1FcUJoMkJNTWMtTUtNeDNhUlRuc1huMlh3?oc=5",
-      "source": "Law360",
-      "sourceUrl": "https://www.law360.com",
-      "publishedAt": "2026-09-08T07:00:00.000Z",
-      "states": [
-        {
-          "name": "Utah",
-          "abbr": "UT"
         }
       ]
     },
