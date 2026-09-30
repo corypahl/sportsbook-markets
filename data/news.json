@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-28",
+  "generatedAt": "2026-09-30",
   "source": "Google News",
   "query": "Kalshi (state OR lawsuit OR court OR regulator) when:90d",
   "queryUrl": "https://news.google.com/search?q=Kalshi+%28state+OR+lawsuit+OR+court+OR+regulator%29+when%3A90d&hl=en-US&gl=US&ceid=US%3Aen",
   "items": [
     {
-      "title": "Federal court rules Kalshi is subject to Tennessee’s gambling laws for sports contracts",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcGF4VVB4cmgxYkNiaVBjQnplc3lVNFlGUk42aFp0cmlFMGM3VXNYdGtQWHdDXzl5d3RGWXVmQUNuMk1mb2swdEtxMDNpMmQ3cUJmMzNBWXdWaHZNS1JlLXFKWG5DN3lvVWZyQUtvQXdRMm5UOU40dUFzTzh5bl9VWVFZMVNwWVBZMDlfOXNQSkd0SXdtdXkxeG9GaTdRUExXVkUxSkYtWm85R19WNGFWazRLY3pkTXM2czhYQVhnV0c1WGVZQkE?oc=5",
-      "source": "tennesseelookout.com",
-      "sourceUrl": "https://tennesseelookout.com",
-      "publishedAt": "2026-09-28T17:50:53.000Z",
+      "title": "US appeals court finds Kalshi subject to Tennessee’s gambling laws",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWG1zWVAyd0dUOUZGaVgzRkFHMFF2ajV3cGZibko1VXRJcnk1WDNQeXRSbzhrV2Y4R2VtREZ0d2Vna1hRNzEwcS1ZaHVBcnZ6OG1lbWc2REJXSWh6MzVRVkk5aGdnVnZJUEtaSkVJQ1V0LUpHNTFOR1ZTdmNhY21oNkJGbW1PMWFXcTJCS0xrS201SnN0TXZzdl9Mc05mM2JNd0FJU1dvMUZUUHNRRjJRUw?oc=5",
+      "source": "WKRN News 2",
+      "sourceUrl": "https://www.wkrn.com",
+      "publishedAt": "2026-09-29T18:00:50.000Z",
       "states": [
         {
           "name": "Tennessee",
@@ -18,19 +18,28 @@
       ]
     },
     {
-      "title": "Appeals court says Ohio and Tennessee can regulate Kalshi under gambling laws",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSUhTLTh1TlFLN3dPbDhvdGk2TWQtTV8wSDZaSkdUaDJwLVF5U1JhdkhjRTZIelgtQ19fLUhrdnZsemM2TDRUN1pFekxPSE9fWGM5Vm5FalE5SzUyMFpfel9OZ0dkMW5SX2xOYnU5aVhrMXFMOHdMX1Z1eVVnNk1IbnRsUmdXMWs?oc=5",
-      "source": "Mashable",
-      "sourceUrl": "https://mashable.com",
-      "publishedAt": "2026-09-28T13:39:27.000Z",
+      "title": "After court ruling, Ohio Gov. Mike DeWine to hold Kalshi accountable for operating illegally",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSlY2QXZKX3lSOFJaVmhubUhWaUZNSjNSWExYenQ1d18wckZ0NFdDWEpCUHZEcE40TG5Pci1jMVdkUzFHWmxsMzRaMzVZdXVzbTZfaXVCOGVxQ3U5QzhtX29IOTk2eXFZVWlYa1pEWE43UkdNT2VNanhQRGxmcVY1aV91SW5NTVlJUVJSLUpaaEpmeGJYUjZxSDgxdWxUSE15Y0NpakZoM2lkQjZFYXVFT2FBXzFUeHFfLTNRckE2a19DUlV2M29sYzJVVGFUbmVlTVhfcERlbGQtdW9DdDQ5akFobw?oc=5",
+      "source": "News 5 Cleveland WEWS",
+      "sourceUrl": "https://www.news5cleveland.com",
+      "publishedAt": "2026-09-28T22:20:17.000Z",
       "states": [
         {
           "name": "Ohio",
           "abbr": "OH"
-        },
+        }
+      ]
+    },
+    {
+      "title": "Utah may crack down on Kalshi after emergency injunction rejected",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPS19KUXp5UmNDWGZqaDFMS1RPTWFGMm9PblNIUkJrdnJRU2p3ak9uUXV4c180MXRjYk4wbDNub3ZqclAwLWhvdmF2TWZEOHBicnNWV1dpUXhQOWczaXh4RV9ZZnFnWG5hMXBzVmdTd19laWJnTUxPZkNXSmdpWUZSUHdSTmlwOVNBaFJldVRGdWhmd3NGVHlwZFFUalF0V21saENHbkY3RQ?oc=5",
+      "source": "FOX 13 News Utah",
+      "sourceUrl": "https://www.fox13now.com",
+      "publishedAt": "2026-09-09T07:00:00.000Z",
+      "states": [
         {
-          "name": "Tennessee",
-          "abbr": "TN"
+          "name": "Utah",
+          "abbr": "UT"
         }
       ]
     },
@@ -70,19 +79,6 @@
         {
           "name": "Nevada",
           "abbr": "NV"
-        }
-      ]
-    },
-    {
-      "title": "Nessel wins injunction against Kalshi as prediction market says Michigan lacks regulatory authority",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdDFOQVpMUy0tVXpVZTBGYVBCUHVCX2E2VjZESnc1UEpPYlo3ZlZFUFU5S1pwZ24zWTQxVEhQZlpNMFREcG5nYXdPTzZ2UE5kam9yWUFHeDZfemNvZW1PUnRBdGU1QnlLM2lRdjBaYURnQXE0S0tDZGtlQURnZEQxY29GVExCUlM3QnVWUEl2VVFDeFhtcEVIel82VnZOT2NpYmJpYTcyeXp0NGR5ZlFzNk5wN0dENWRZaDdFREs1TmQxeXhTbmtIOXc5UnJHcm9Udk5Ka19R?oc=5",
-      "source": "Michigan Advance",
-      "sourceUrl": "https://michiganadvance.com",
-      "publishedAt": "2026-09-03T07:00:00.000Z",
-      "states": [
-        {
-          "name": "Michigan",
-          "abbr": "MI"
         }
       ]
     }

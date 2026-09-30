@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28",
+  "generatedAt": "2026-09-30",
   "scope": "50 states and the District of Columbia",
   "methodology": "Map colors compare current product availability: FanDuel Mobile Sportsbook availability from FanDuel's State of Play page and documented availability of Kalshi sports event contracts. Availability is not a legal opinion.",
   "sources": [
@@ -198,9 +198,9 @@
       "abbr": "MA",
       "fips": "25",
       "fanduel": true,
-      "kalshi": false,
+      "kalshi": true,
       "kalshiContested": true,
-      "note": "The current source reports a court-ordered block on Kalshi sports contracts."
+      "note": "The prior block is no longer reported as in force; an active challenge may remain."
     },
     {
       "name": "Michigan",
