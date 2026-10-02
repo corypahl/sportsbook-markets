@@ -1,32 +1,32 @@
 {
-  "generatedAt": "2026-09-30",
+  "generatedAt": "2026-10-02",
   "source": "Google News",
   "query": "Kalshi (state OR lawsuit OR court OR regulator) when:90d",
   "queryUrl": "https://news.google.com/search?q=Kalshi+%28state+OR+lawsuit+OR+court+OR+regulator%29+when%3A90d&hl=en-US&gl=US&ceid=US%3Aen",
   "items": [
     {
-      "title": "US appeals court finds Kalshi subject to Tennessee’s gambling laws",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWG1zWVAyd0dUOUZGaVgzRkFHMFF2ajV3cGZibko1VXRJcnk1WDNQeXRSbzhrV2Y4R2VtREZ0d2Vna1hRNzEwcS1ZaHVBcnZ6OG1lbWc2REJXSWh6MzVRVkk5aGdnVnZJUEtaSkVJQ1V0LUpHNTFOR1ZTdmNhY21oNkJGbW1PMWFXcTJCS0xrS201SnN0TXZzdl9Mc05mM2JNd0FJU1dvMUZUUHNRRjJRUw?oc=5",
-      "source": "WKRN News 2",
-      "sourceUrl": "https://www.wkrn.com",
-      "publishedAt": "2026-09-29T18:00:50.000Z",
-      "states": [
-        {
-          "name": "Tennessee",
-          "abbr": "TN"
-        }
-      ]
-    },
-    {
-      "title": "After court ruling, Ohio Gov. Mike DeWine to hold Kalshi accountable for operating illegally",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSlY2QXZKX3lSOFJaVmhubUhWaUZNSjNSWExYenQ1d18wckZ0NFdDWEpCUHZEcE40TG5Pci1jMVdkUzFHWmxsMzRaMzVZdXVzbTZfaXVCOGVxQ3U5QzhtX29IOTk2eXFZVWlYa1pEWE43UkdNT2VNanhQRGxmcVY1aV91SW5NTVlJUVJSLUpaaEpmeGJYUjZxSDgxdWxUSE15Y0NpakZoM2lkQjZFYXVFT2FBXzFUeHFfLTNRckE2a19DUlV2M29sYzJVVGFUbmVlTVhfcERlbGQtdW9DdDQ5akFobw?oc=5",
-      "source": "News 5 Cleveland WEWS",
-      "sourceUrl": "https://www.news5cleveland.com",
-      "publishedAt": "2026-09-28T22:20:17.000Z",
+      "title": "Kalshi is illegal gambling and Ohio will enforce state law following ruling, says DeWine",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWE45ZlNwTFByMjZqRVRmNk9tRWU0RlBDZURCWENoQ0NocVk0LWU4emhLNXY3VXFvbEVCV2s3MENSTm1PcmlPR2pNSDNqel9LYjJIM2I0dGFXSDVQamNleko0SmZyVGtMenVYSnh0WDVyRDNJT3RXb1JmWTdfS0Q2NEJhQ0cxVmJld0RqU2NWSFlyUzFLYm1YS3BCZHl0bjl0RlJPUVkzWHFrbDNCZzlxZ3FfZVZOMjhYME1RNTc1YjdHOFU?oc=5",
+      "source": "Ideastream Public Media",
+      "sourceUrl": "https://www.ideastream.org",
+      "publishedAt": "2026-10-02T17:07:00.000Z",
       "states": [
         {
           "name": "Ohio",
           "abbr": "OH"
+        }
+      ]
+    },
+    {
+      "title": "Kalshi halted, for now, in Tennessee gambling ruling",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUXJxTFR6S3gyNFhRcUd6UnFmU3U4SVpFbXQ3YWxzclBJYzl3U1B3c2NOa3lwVWtjUldqNFhVYUFZOWdPVHlxWTk1RWVrbFFBXy1acGdKbXdrbU9mYTZhMEZGUEhiVk5vMWR1TnlXRU1lNjlYejJSOWxvZ2laeWtqSUlLVzJCY1I5TG1NZU50a2VqcE0?oc=5",
+      "source": "Chattanooga Times Free Press",
+      "sourceUrl": "https://www.timesfreepress.com",
+      "publishedAt": "2026-09-29T04:49:03.000Z",
+      "states": [
+        {
+          "name": "Tennessee",
+          "abbr": "TN"
         }
       ]
     },
